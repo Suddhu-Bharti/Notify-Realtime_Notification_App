@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This is a Realtime Notification WebApp, build using React and Socket-io.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
